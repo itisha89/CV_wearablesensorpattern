@@ -60,8 +60,3 @@ The CNN model achieved an accuracy of 87%, while the CNN-LSTM model improved per
 - The **CNN-LSTM model** boosted the accuracy to **90%**.
 - The **Confusion Matrix** and **Classification Report** showed that both models performed well in distinguishing between similar activities, although some errors were made between **normal walk** and **walk on the toe**.
 - **CNN-LSTM** outperformed **CNN** in terms of classification accuracy, precision, and recall.
-
-## Conclusion
-
-This work demonstrates the potential of deep learning models, particularly **CNN** and **CNN-LSTM**, in classifying human activities based on sensor data. By using a single **IMU sensor**, the proposed solution successfully distinguishes between five closely related activities, achieving high classification accuracy and robustness. The results indicate the models' ability to generalize to diverse subjects with different health conditions.
-
