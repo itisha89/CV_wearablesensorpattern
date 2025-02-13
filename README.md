@@ -1,4 +1,4 @@
-# README: Human Activity Recognition Using IMU Sensor
+# Human Activity Recognition Using IMU Sensor
 
 ## Overview
 
@@ -60,3 +60,8 @@ The CNN model achieved an accuracy of 87%, while the CNN-LSTM model improved per
 - The **CNN-LSTM model** boosted the accuracy to **90%**.
 - The **Confusion Matrix** and **Classification Report** showed that both models performed well in distinguishing between similar activities, although some errors were made between **normal walk** and **walk on the toe**.
 - **CNN-LSTM** outperformed **CNN** in terms of classification accuracy, precision, and recall.
+
+## 🌍 Explore More Projects  
+For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
+
+---
